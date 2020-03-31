@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Helu</string>
+    <string name="tengo_cuenta">Ya tengo una cuenta</string>
+    <string name="continuar_fb">Continuar con Facebook</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="descripcion_bienvenida">Lee, escribe, opina y aprende</string>
+    <string name="olvido_contraseña">¿Olvidaste tu contraseña?</string>
+</resources>
